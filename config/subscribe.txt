@@ -15,3 +15,10 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://freetv.fun/test_channels.txt
+https://freetv.fun/test_channels_all_new.m3u
+https://freetv.fun/test_channels_banned_cn_new.txt
+https://freetv.fun/test_channels_taiwan_new.m3u
+https://freetv.fun/test_channels_hong_kong.m3u
+https://freetv.fun/test_channels_macau.m3u
+https://freetv.fun/test_channels_japan.m3u
