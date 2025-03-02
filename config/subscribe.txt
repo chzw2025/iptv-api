@@ -1,6 +1,14 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-
+https://cdn.163189.xyz
+https://cdn3.163189.xyz
+https://cdn12.jdshipin.com
+https://v2h.jdshipin.com
+https://v2hcdn.jdshipin.com
+https://edge3.hkdvb.com
+https://cdn5.163189.xyz
+https://cdn2.163189.xyz
+https://aktv.top
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
