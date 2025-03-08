@@ -16,3 +16,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+http://rihou.cc:555/gggg.nzk
+https://raw.gitmirror.com/tmoom/ttkx/main/lib/kx2024.txt
+https://live.iptv365.org/live.m3u
+https://raw.githubusercontent.com/n3rddd/CTVLive/a4bb08fefb439f932abffd709ea5390afde5b1d9/live.m3u
