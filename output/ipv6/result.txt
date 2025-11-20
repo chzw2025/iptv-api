@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 06:31:15,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-20 18:31:37,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -1160,6 +1160,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 都市剧场,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/index.m3u8
 都市剧场,http://iptv.666230.xyz/iptv/hnyx.php/dsjc
+都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226155/index.m3u8
 
 ☘️重庆频道,#genre#
 
@@ -1712,6 +1713,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南新闻,https://migu.188766.xyz/?migutoken=9fa956f606633d4b76b54a923c739096&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=c457abcfa97e77c62f6af3a4130fac85&id=hn_xwpd&type=sz
 海南新闻,https://migu.188766.xyz/?migutoken=36d104578a14bd2af2e44d521c7f70c7&id=hn_xwpd&type=sz
+海南新闻,https://migu.188766.xyz/?migutoken=182901b004bc5f09e615cf8a4b318c3b&id=hn_xwpd&type=sz
 海南自贸,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=3311c2eca5fd9251ed760f458691f236&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=3e8917d537b968ee58829aa8fb7d2f43&id=hn_jjpd&type=sz
@@ -1719,6 +1721,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南自贸,https://migu.188766.xyz/?migutoken=eca1abdf02d586daba34dbb33ab8a021&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=6894e84142c73524209f1b6707eb4320&id=hn_jjpd&type=sz
 海南自贸,https://migu.188766.xyz/?migutoken=07ef1bd2479e6bd0002a2f4a7d59498c&id=hn_jjpd&type=sz
+海南自贸,https://migu.188766.xyz/?migutoken=ae9e35f059de501160ef7a1f916d2d58&id=hn_jjpd&type=sz
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-7.m3u8
 海南文旅,https://stream1.freetv.fun/ipv6-hai-nan-wen-lu-9.m3u8
@@ -1728,6 +1731,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南文旅,https://migu.188766.xyz/?migutoken=8746576de0d7635f85d4f62c6f98c62a&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=14d2542dd0b2facc7a4789992b7324e2&id=hn_wlpd&type=sz
 海南文旅,https://migu.188766.xyz/?migutoken=76e02531ffac2747e9682e3caf1a7d35&id=hn_wlpd&type=sz
+海南文旅,https://migu.188766.xyz/?migutoken=c806b2980186527b1e531e30efdc4b8f&id=hn_wlpd&type=sz
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=7d620660bdcd2a10cdf01ba2f48ba2f2&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=a5e852e9fea77dd86488c89835e1f7f4&id=hn_sepd&type=sz
@@ -1735,6 +1739,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南少儿,https://migu.188766.xyz/?migutoken=f2d9624a5c101cd8219012e80433373c&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=6f4147a573c175ca09dfe78dbb022b5b&id=hn_sepd&type=sz
 海南少儿,https://migu.188766.xyz/?migutoken=bf245a0c44e6a53a28b5377b3c5a62e3&id=hn_sepd&type=sz
+海南少儿,https://migu.188766.xyz/?migutoken=d9f1cc83ef65965082d42d9a9377b59d&id=hn_sepd&type=sz
 海南公共,http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-8.m3u8
 海南公共,https://stream1.freetv.fun/ipv6-hai-nan-gong-gong-9.m3u8
@@ -1744,6 +1749,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8
 海南公共,https://migu.188766.xyz/?migutoken=e9d3ad583688dea6696e15d73982a9e2&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=b2fe8a76a17cb9b1a0fec055e1c315ed&id=hn_ggpd&type=sz
 海南公共,https://migu.188766.xyz/?migutoken=1c5ce3dd327cdf5498767a98fcb2bc5c&id=hn_ggpd&type=sz
+海南公共,https://migu.188766.xyz/?migutoken=398a7d586bc5146a01195da31b72c708&id=hn_ggpd&type=sz
 
 ☘️河南频道,#genre#
 梨园,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
